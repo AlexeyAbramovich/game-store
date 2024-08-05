@@ -10,6 +10,7 @@
 -  React Router Dom
 -  React Icons
 -  Classnames
+-  Vite
 
 # Preview
 ![image](https://github.com/AlexeyAbramovich/game-store/assets/74393859/ad919848-8eae-4746-9ffb-a9c569171473)
