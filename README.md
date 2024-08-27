@@ -1,6 +1,6 @@
 # Functionality
 - Adding/removing game to/from cart
-- Clicking on the game card opens a separate page with a description and a trailer
+- Separate page with full game info and a trailer
 - Order page
 
 # Used technologies
